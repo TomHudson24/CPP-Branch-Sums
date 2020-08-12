@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\tomhu\Documents\GitHub\CPP-Branch-Sums\BranchSumsTest\BranchSumsTest\test.cpp(25,9): warning C4018: '>=': signed/unsigned mismatch
+  BranchSumsTest.vcxproj -> C:\Users\tomhu\Documents\GitHub\CPP-Branch-Sums\BranchSumsTest\Debug\BranchSumsTest.exe
